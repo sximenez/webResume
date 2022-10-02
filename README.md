@@ -5,19 +5,20 @@
 
 The ```idea``` is based on developer <a href="https://github.com/icelam/html-cv-poc">__Ice Lam__</a>'s work. 
 
-I find his projects very inspiring and worth studying.
+I find his projects very inspiring and instructive.
 
-Since I was looking for an intership at the time of the project and needed to update my resume, I decided to tailor Lam's project to my needs.
+Since I'm currently looking for an internship and I need to regularly update my resume, I decided to play with Lam's idea.
 
-The ```html``` has a button to convert the resume to pdf, a header with the main information, and three containers with detailed information.
+The ```html``` is divided in two pages, a first page with the resume containing a header with the main information, and three containers with detailed information.
+And a second page with a cover letter.
 
-I added a second page for a cover letter.
+On top of the documents, there's a simple button to convert the pages to pdf.
 
 The ```css``` is based on Lam's project and tailored to the design I was looking for.
 
-The ```js``` is Lam's work. 
+The ```js``` is Lam's work.
 
-Interesting to learn the syntax to open the browser's print window:
+Interesting to learn the JS syntax to open the browser's print window:
 
 ```Javascript
 function showPrintDialog() {

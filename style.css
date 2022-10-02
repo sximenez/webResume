@@ -61,6 +61,10 @@ hr {
   line-height: 0.35rem;
 }
 
+.margin-line {
+  margin-bottom: 1.5rem;
+}
+
 .full-page {
   display: none;
   width: 1000px;
@@ -102,8 +106,18 @@ hr {
   border-radius: 500px;
 }
 
+.signature {
+  width: 7rem;
+  float: right;
+  padding: 0 4rem;
+}
+
 .section {
   padding: 0 0.5rem;
+}
+
+.section-cover {
+  padding: 2rem 0.5rem 4rem 0.5rem;
 }
 
 .section-flex {
